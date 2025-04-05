@@ -14,6 +14,6 @@
 
 # `Owner`
 
- <a href="https://github.com/+"><img src="https://github.com/username.png" width="250" height="250" alt="MDK Tech"/></a>
+ <a href="https://github.com/+"><img src="https://files.catbox.moe/hyrqq0.PNG" width="250" height="250" alt="MDK Tech"/></a>
 
    
